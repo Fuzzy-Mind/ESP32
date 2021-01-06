@@ -1,6 +1,7 @@
 # Blink Example
 
 Test
+Test2
 
 Starts a FreeRTOS task to blink an LED
 
