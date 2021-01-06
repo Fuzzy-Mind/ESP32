@@ -1,0 +1,5 @@
+source "C:/Users/EOMed1/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/EOMed1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/EOMed1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/EOMed1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/EOMed1/Documents/GitHub/ESP32/blink/main/Kconfig.projbuild"
